@@ -1,0 +1,484 @@
+Berserker (Bruiser)
+1. Dwuręczny Topór
+Charakterystyka: Styl walki oparty wyłącznie na potężnych atakach obszarowych i zadawaniu krwawienia. Berserker z dwuręcznym toporem nie korzysta z autoataków, zamiast tego wszystkie jego umiejętności skupiają się na maksymalnym zadawaniu obrażeń i dominacji w grupowej walce.
+Ofensywne Skille (9):
+1.	Cleave of Fury – Potężny, szeroki cios, który trafia wszystkich przeciwników przed Berserkerem, zadając im spore obrażenia.
+2.	Rend – Potężne cięcie toporem, które wywołuje krwawienie, zadając obrażenia w czasie.
+3.	Whirlwind Slash – Obraca się wokół własnej osi, uderzając wszystkich przeciwników w promieniu.
+4.	Bloodbath – Zadaje większe obrażenia przeciwnikom, którzy już krwawią.
+5.	Executioner’s Strike – Atak, który zadaje podwójne obrażenia celom z mniej niż 20% HP.
+6.	Gash – Cięcie, które powoduje intensywne krwawienie, zadając obrażenia przez 5 sekund.
+7.	Furious Swing – Szybkie i potężne uderzenie, które osłabia obronę przeciwnika.
+8.	Decimating Blow – Atak, który zadaje dodatkowe obrażenia, jeśli przeciwnik ma mniej niż 50% HP.
+9.	Raging Cleaver – Szerokie cięcie, które zwiększa obrażenia zadawane przeciwnikom w promieniu.
+Wspierające/Defensywne Skille (6):
+1.	Iron Will – Zwiększa obronę fizyczną na 10 sekund.
+2.	Blood Feast – Każdy cios, który trafi przeciwnika krwawiącego, regeneruje 5% HP.
+3.	Endless Rage – Zmniejsza otrzymywane obrażenia o 20% na 10 sekund.
+4.	Blood Shield – Tarcza, która pochłania obrażenia proporcjonalnie do liczby przeciwników, którzy krwawią w pobliżu.
+5.	Unyielding – Zmniejsza czas trwania efektów kontroli tłumu o 30%.
+6.	Berserker’s Endurance – Zwiększa maksymalne HP o 15% na 20 sekund.
+________________________________________
+2. Dwuręczna Młot/Buława
+Charakterystyka: Berserker z dwuręcznym młotem lub buławą skupia się na ogłuszaniu, wywoływaniu knock-upów oraz zadawaniu ogromnych obrażeń na pojedynczym celu. Jego celem jest kontrola i niszczenie jednego przeciwnika.
+Ofensywne Skille (9):
+1.	Crushing Blow – Potężny cios, który ogłusza przeciwnika na kilka sekund.
+2.	Smash Down – Uderzenie młotem, które powala przeciwnika na ziemię (knock-up), zadając mu duże obrażenia.
+3.	Thunderous Strike – Potężne uderzenie, które tworzy falę uderzeniową, ogłuszając przeciwników w promieniu.
+4.	Bonecrusher – Cios, który zmniejsza pancerz przeciwnika, zwiększając obrażenia kolejnych ataków.
+5.	Seismic Slam – Potężne uderzenie w ziemię, które odrzuca wrogów wokół.
+6.	Pulverize – Atak, który niszczy obronę przeciwnika, zmniejszając jego odporność na przyszłe ataki.
+7.	Ground Pound – Uderza w ziemię, powodując powalenie przeciwników w promieniu.
+8.	Shattering Impact – Cios, który zadaje dodatkowe obrażenia ogłuszonym przeciwnikom.
+9.	Devastator – Zadaje ogromne obrażenia jednemu celowi, zmniejszając jego wytrzymałość.
+Wspierające/Defensywne Skille (6):
+1.	Stonewall – Zmniejsza otrzymywane obrażenia fizyczne o 30% na 10 sekund.
+2.	Juggernaut – Na 5 sekund Berserker staje się niewrażliwy na efekty kontroli tłumu.
+3.	Fortress Stance – Zwiększa obronę i zmniejsza obrażenia magiczne o 20% na 15 sekund.
+4.	Titan’s Strength – Zwiększa siłę o 20%, ale zmniejsza szybkość poruszania się na 10 sekund.
+5.	Battle Roar – Regeneruje 10% HP i zwiększa regenerację zdrowia przez 10 sekund.
+6.	Steadfast – Zmniejsza szansę na otrzymanie obrażeń krytycznych o 50% na 10 sekund.
+________________________________________
+3. Podwójne Topory/Buławy (Autoataki)
+Charakterystyka: Berserker walczący podwójną bronią skupia się na wzmocnieniu autoataków. Jego ataki stają się szybsze, a dodatkowe efekty, takie jak łańcuchy, zwiększają ich zasięg i siłę.
+Ofensywne Skille (9):
+1.	Chain Swipe – Atak, który wzmacnia autoataki, zwiększając ich zasięg dzięki łańcuchom.
+2.	Double Strike – Szybkie, podwójne uderzenie, które zwiększa obrażenia od krytyków.
+3.	Whirling Chains – Obrót z podwójnymi toporami, który trafia przeciwników w półdystansie.
+4.	Razor Chains – Uderzenie, które dodatkowo zadaje obrażenia wszystkim przeciwnikom w promieniu.
+5.	Fury Chains – Wzmacnia autoataki, które zadają obrażenia obszarowe.
+6.	Lightning Chains – Uderzenie, które przeskakuje na kilku przeciwników, zadając im dodatkowe obrażenia.
+7.	Relentless Assault – Zwiększa prędkość autoataków o 20% na 5 sekund.
+8.	Flurry of Blows – Seria szybkich cięć, które zwiększają obrażenia każdego kolejnego autoataku.
+9.	Chain Breaker – Potężne uderzenie, które dodatkowo odrzuca przeciwników w półdystansie.
+Wspierające/Defensywne Skille (6):
+1.	Evasion – Zwiększa szansę na unik o 25% na 10 sekund.
+2.	Adrenaline Surge – Berserker odzyskuje 5% HP za każdy trafiony autoatak przez 5 sekund.
+3.	Blade Ward – Zwiększa odporność na obrażenia dystansowe o 30% na 10 sekund.
+4.	Fury of the Twin Axes – Zwiększa siłę autoataków o 15% na 10 sekund.
+5.	Blood Vortex – Tworzy wir wokół Berserkera, który zadaje obrażenia przeciwnikom w półdystansie.
+6.	Quick Recovery – Berserker regeneruje 10% HP za każdą unikniętą akcję przeciwnika przez 5 sekund.
+________________________________________
+4. Podwójne Topory/Buławy (Skille)
+Charakterystyka: Druga wersja Berserkera walczącego podwójnymi toporami, która opiera się na używaniu umiejętności. Skille te wywołują fale uderzeniowe i niszczą przeciwników na dystans dzięki sile Berserkera.
+Ofensywne Skille (9):
+1.	Sundering Wave – Zamach toporem, który tworzy falę uderzeniową zadającą obrażenia przeciwnikom na dystans.
+2.	Fissure – Uderzenie toporem w ziemię, które rozrywa powierzchnię i zadaje obrażenia w linii.
+3.	Blade Cyclone – Obrót z toporami, który wywołuje niszczycielską falę uderzeniową wokół Berserkera.
+4.	Forceful Strike – Potężne uderzenie, które tworzy falę ciśnienia, zadając obrażenia wszystkim przeciwnikom w linii.
+5.	Crushing Wave – Tworzy potężną falę energii, która przebija się przez przeciwników, zadając obrażenia na dystansie.
+6.	Rift Slam – Uderza w ziemię, tworząc pęknięcie, które wybucha, zadając obrażenia wszystkim w pobliżu.
+7.	Storm Cleave – Szybka seria uderzeń, które wywołują fale uderzeniowe, zadając obrażenia przeciwnikom.
+8.	Arc of Destruction – Berserker zamachuje się podwójnymi toporami, wywołując szeroką falę energii.
+9.	Tornado Slash – Tworzy mini-tornado, które przyciąga przeciwników i zadaje im obrażenia.
+Wspierające/Defensywne Skille (6):
+1.	Iron Resolve – Zwiększa odporność na obrażenia dystansowe o 25% na 10 sekund.
+2.	Stone Grip – Zmniejsza prędkość ataku wrogów o 20% na 5 sekund.
+3.	Resilience – Zwiększa odporność na obrażenia fizyczne o 15% na 10 sekund.
+4.	Elemental Aegis – Zmniejsza otrzymywane obrażenia magiczne o 30% na 10 sekund.
+5.	Defensive Reflex – Zwiększa szansę na blokowanie ataków wręcz o 20% na 10 sekund.
+6.	Steady Stance – Zmniejsza wszystkie otrzymywane obrażenia o 10% na 5 sekund.
+________________________________________
+1. Rycerz Tank (Miecz i Tarcza)
+Charakterystyka: Rycerz Tank opiera się na przeżywalności, silnym pancerzu oraz zdolności do przyciągania wrogów i kontrolowania pola bitwy. Jego główne skille opierają się na blokowaniu, agrowaniu i ogłuszaniu przeciwników.
+Ofensywne Skille (9):
+1.	Shield Bash – Potężne uderzenie tarczą, które zadaje obrażenia i oszałamia przeciwnika.
+2.	Piercing Thrust – Szybki cios mieczem, który zmniejsza obronę przeciwnika.
+3.	Shield Slam – Mocne uderzenie tarczą, które zmniejsza celność przeciwników na krótki czas.
+4.	Justice Blade – Potężny cios, który zwiększa swoje obrażenia, im więcej ciosów zablokował Rycerz.
+5.	Sword of Justice – Szybki cios, który dodatkowo leczy Rycerza o 10% zadanych obrażeń.
+6.	Guardian’s Strike – Atak, który dodatkowo zwiększa obronę Rycerza na 5 sekund.
+7.	Shield Charge – Rycerz szarżuje w stronę przeciwnika, przewracając go na ziemię.
+8.	Taunting Roar – Rycerz ryczy, agrować wszystkich przeciwników w pobliżu.
+9.	Shield Cyclone – Obraca się z tarczą, zadając obrażenia wszystkim przeciwnikom wokół.
+Wspierające/Defensywne Skille (6):
+1.	Fortress Stance – Zwiększa obronę fizyczną Rycerza o 50%, ale unieruchamia go na 5 sekund.
+2.	Shield Wall – Blokuje wszystkie ataki fizyczne przez 5 sekund.
+3.	Aegis – Całkowicie pochłania jeden nadchodzący atak.
+4.	Iron Will – Zwiększa obronę fizyczną o 40% na 15 sekund.
+5.	Defender’s Resolve – Zwiększa odporność na kontrolę tłumu o 30% na 10 sekund.
+6.	Bulwark of Light – Zmniejsza otrzymywane obrażenia magiczne i fizyczne o 25% na 10 sekund.
+________________________________________
+2. Gladiator (Dwuręczne Miecze)
+Charakterystyka: Gladiator to mistrz walki w zwarciu, który walczy dwoma długimi mieczami. Skupia się na zadawaniu ogromnych obrażeń, a jego zdolność do szybkich, śmiercionośnych ataków sprawia, że jest trudny do pokonania.
+Ofensywne Skille (9):
+1.	Blade Flurry – Szybka seria cięć, które zadają coraz większe obrażenia z każdym kolejnym uderzeniem.
+2.	Double Strike – Dwa szybkie cięcia, które zwiększają szansę na krytyczne uderzenie.
+3.	Raging Slash – Potężny cios, który zadaje obrażenia wszystkim przeciwnikom w zasięgu.
+4.	Whirlwind Blade – Gladiator obraca się z mieczami, zadając obrażenia przeciwnikom wokół.
+5.	Savage Cleave – Szeroki cios, który zmniejsza obronę przeciwników trafionych w promieniu.
+6.	Overhead Chop – Mocny atak, który zadaje dodatkowe obrażenia, jeśli cel jest ogłuszony.
+7.	Executioner’s Edge – Potężne cięcie, które zadaje zwiększone obrażenia, jeśli przeciwnik ma mniej niż 30% HP.
+8.	Bloodlust – Każde trafienie regeneruje 2% HP.
+9.	Decimating Strikes – Seria szybkich ciosów, które zadają obrażenia i zwiększają szansę na krytyczne uderzenia.
+Wspierające/Defensywne Skille (6):
+1.	Juggernaut's Strength – Gladiator zwiększa swoje obrażenia o 20% na 10 sekund.
+2.	Unstoppable Force – Gladiator staje się niewrażliwy na efekty kontroli tłumu przez 5 sekund.
+3.	Iron Skin – Gladiator regeneruje 10% HP, gdy jego zdrowie spada poniżej 30%.
+4.	Titan’s Resilience – Zwiększa maksymalne HP o 15% na 10 sekund.
+5.	Battle Frenzy – Zwiększa szybkość ataku o 25% na 10 sekund.
+6.	Blood Frenzy – Gladiator odzyskuje HP za każdy zadany cios w ciągu 10 sekund (maksymalnie 5%).
+________________________________________
+3. Paladyn (Jednoręczny Młot)
+Charakterystyka: Paladyn walczy jednoręcznym młotem i korzysta z mocy świętych, by wzmacniać swoje ataki. Potrafi zadawać obrażenia wielu przeciwnikom jednocześnie, a także leczyć siebie, czyniąc go niezwykle wytrzymałym wojownikiem.
+Ofensywne Skille (9):
+1.	Hammer of Justice – Uderzenie młotem, które ogłusza przeciwnika na kilka sekund.
+2.	Holy Strike – Atak, który zadaje obrażenia fizyczne i magiczne od świętej mocy.
+3.	Divine Judgment – Potężne uderzenie, które zadaje większe obrażenia, im więcej obrażeń otrzymał Paladyn.
+4.	Radiant Smite – Uderzenie młotem, które zadaje obrażenia magiczne w obszarze.
+5.	Hammer of Wrath – Potężny atak, który zadaje zwiększone obrażenia, gdy przeciwnik ma mniej niż 50% HP.
+6.	Consecration – Święty atak, który zadaje obrażenia przeciwnikom w promieniu wokół Paladyna.
+7.	Guardian’s Wrath – Mocny cios, który zadaje dodatkowe obrażenia, gdy Paladyn blokuje ataki.
+8.	Crusader’s Strike – Uderzenie, które zadaje dodatkowe obrażenia magiczne i zmniejsza odporność przeciwnika na świętą magię.
+9.	Blessed Hammer – Paladyn rzuca młotem, który odbija się między przeciwnikami, zadając obrażenia magiczne.
+Wspierające/Defensywne Skille (6):
+1.	Divine Protection – Zmniejsza otrzymywane obrażenia o 25% na 10 sekund.
+2.	Holy Aura – Zmniejsza otrzymywane obrażenia magiczne dla drużyny o 20% na 10 sekund.
+3.	Lay on Hands – Natychmiastowo przywraca 30% HP Paladyna.
+4.	Sanctuary – Zmniejsza obrażenia otrzymywane przez drużynę o 10% na 10 sekund.
+5.	Holy Healing – Paladyn leczy się o 15% zadanych obrażeń przez 10 sekund.
+6.	Blessing of Light – Zwiększa regenerację HP Paladyna i jego drużyny o 20% na 10 sekund.
+1. Wyborowe Oko
+Charakterystyka: Wyborowe Oko to strzelec, który zadaje ogromne obrażenia dystansowe swoimi umiejętnościami. Jest wyjątkowo delikatny (papierowy), więc jego defensywne umiejętności opierają się na mobilności – skokach w przód i w tył – oraz leczeniu za pomocą ziół i bandaży.
+Ofensywne Skille (9):
+1.	Sniper Shot – Silny, precyzyjny strzał zadający ogromne obrażenia, ale wymaga czasu na celowanie.
+2.	Explosive Arrow – Strzał, który wybucha po trafieniu, zadając obrażenia w obszarze.
+3.	Penetrating Shot – Strzał, który przebija się przez wrogów, zadając obrażenia kilku celom na swojej drodze.
+4.	Headshot – Strzał z szansą na natychmiastowe zabicie przeciwnika o niskim poziomie zdrowia.
+5.	Crippling Shot – Strzał, który spowalnia przeciwnika, zmniejszając jego mobilność.
+6.	Burst Shot – Strzał, który eksploduje po kontakcie, zadając obrażenia wrogom w pobliżu.
+7.	Piercing Barrage – Szybka seria strzałów, które przebijają pancerze przeciwników.
+8.	Thunderbolt Arrow – Strzał, który zadaje obrażenia błyskawiczne, paraliżując przeciwników.
+9.	Deadeye – Strzał z precyzyjnym trafieniem, który zwiększa szanse na trafienie krytyczne.
+Wspierające/Defensywne Skille (6):
+1.	Quick Escape (Skok w tył) – Szybki skok w tył, który natychmiast zwiększa dystans od przeciwników.
+2.	Forward Leap (Skok w przód) – Skok w przód, który pozwala natychmiast uciec z niebezpiecznej sytuacji.
+3.	Adrenaline Jump – Możliwość podwójnego skoku, dzięki któremu Wyborowe Oko może jeszcze bardziej zwiększyć swoją mobilność.
+4.	Herbal Remedy – Leczy się za pomocą ziół, regenerując 20% HP w ciągu 10 sekund.
+5.	Bandage Wrap – Używa bandaży, które natychmiast regenerują 15% HP.
+6.	Evasion Tactics – Zwiększa szansę na uniki o 25% na 5 sekund, zmniejszając obrażenia w walce.
+________________________________________
+2. Łowca (Hunter)
+Charakterystyka: Łowca walczy razem ze swoim towarzyszem – petem, który pomaga mu w walce. Skupia się na wzmocnieniu swoich autoataków oraz leczeniu siebie i swojego towarzysza. Jego skille wspierające koncentrują się na utrzymywaniu siebie i peta w dobrej kondycji bojowej.
+2. Łowca (Hunter)
+Charakterystyka: Łowca walczy u boku swojego towarzysza (peta), skupiając się na wzmacnianiu autoataków obu postaci. Jego skille wspierające to przywoływanie towarzysza, leczenie siebie i peta oraz poprawa mobilności.
+Ofensywne Skille (9):
+Wspierają autoataki Łowcy i jego towarzysza.
+1.	Mark of the Beast – Znak na przeciwniku, który zwiększa obrażenia zadawane przez autoataki Łowcy i towarzysza o 15%.
+2.	Savage Bite – Pet wykonuje szybki, potężny atak, który zadaje obrażenia i dodatkowo wzmacnia kolejne autoataki o 10% przez 5 sekund.
+3.	Beast Fury – Łowca i jego towarzysz zyskują bonus do szybkości ataku o 20% na 10 sekund.
+4.	Razor Claw Strike – Autoatak towarzysza zadaje zwiększone obrażenia i okulawia przeciwników przez 5 sekund, co zwiększa zadawane obrażenia w czasie.i spowalnia przeciwnika .
+5.	Twin Fang – Pet i Łowca atakują jednocześnie, zadając zwiększone obrażenia.
+6.	Spirit Bond Attack – Zwiększa współdziałanie Łowcy i jego towarzysza, zwiększając szansę na krytyczne uderzenie ich autoataków o 15%.
+7.	Pack Leader – Łowca wzmacnia towarzysza, zwiększając siłę jego autoataków o 25% na 10 sekund.
+8.	Feral Strike – Atak towarzysza, który zmniejsza obronę przeciwnika, zwiększając obrażenia od autoataków.
+9.	Hunter's Instinct – Autoataki Łowcy i towarzysza mają zwiększoną szansę na trafienie krytyczne o 10% przez 10 sekund.
+Wspierające/Defensywne Skille (6):
+Skupiają się na przywoływaniu, leczeniu i mobilności Łowcy i jego towarzysza.
+1.	Pet Healing – Natychmiast leczy towarzysza o 20% jego HP.
+2.	Summon Beast – Natychmiast przywołuje peta, jeśli ten zostanie pokonany, z pełnym zdrowiem i zwiększoną szybkością ataku o 10% na 5 sekund.
+3.	Spirit Link – Łowca dzieli się swoim zdrowiem z petem, przywracając 15% jego HP, ale tracąc 10% własnego.
+4.	Regrowth – Powolne leczenie, które przywraca 10% HP towarzyszowi i Łowcy przez 5 sekund.
+5.	Beast Dash – Zwiększa szybkość poruszania się Łowcy i jego towarzysza o 30% na 8 sekund.
+6.	Call of the Wild – Przywołuje dodatkowe zwierzęta do pomocy na 10 sekund, które atakują wrogów i wspierają autoataki peta i Łowcy.
+________________________________________
+3. Trickster
+Charakterystyka: Trickster to mistrz sztuczek i kamuflażu, który walczy z ukrycia, zadając obrażenia, a gdy zostaje zauważony – szybko ucieka i zmienia pozycję. Jego umiejętności pozwalają mu zniknąć z pola widzenia wroga i zadawać obrażenia z zaskoczenia.
+Ofensywne Skille (9):
+1.	Silent Shot – Strzał, który wycisza przeciwnika, uniemożliwiając mu używanie skilli na krótki czas.
+2.	Explosive Volley – Seria strzał, które eksplodują po trafieniu, zadając obrażenia w promieniu.
+3.	Vampiric Shot – Strzał, który leczy Trickstera o część zadanych obrażeń.
+4.	Concussive Blast – Strzał, który ogłusza przeciwników na krótką chwilę.
+5.	Burst of Shadows – Szybki strzał, który zwiększa szansę na krytyczne trafienie, gdy Trickster jest ukryty.
+6.	Shadow Barrage – Szybka seria strzałów, które zadają dodatkowe obrażenia przeciwnikom z zaskoczenia.
+7.	Ambush Shot – Strzał, który zadaje podwójne obrażenia, jeśli wykonany z ukrycia.
+8.	Smoke Arrow – Strzał, który tworzy chmurę dymu, uniemożliwiając przeciwnikowi namierzenie Trickstera.
+9.	Blinding Arrow – Strzał, który oślepia przeciwników na krótki czas, pozwalając Tricksterowi zmienić pozycję.
+Wspierające/Defensywne Skille (6):
+1.	Camouflage – Trickster staje się niewidzialny na kilka sekund, co umożliwia atak lub ucieczkę.
+2.	Smoke Bomb – Tworzy chmurę dymu, która utrudnia przeciwnikom trafienie Trickstera.
+3.	Quick Retreat – Natychmiastowy skok w tył, który zwiększa dystans od przeciwników.
+4.	Shadow Escape – Trickster natychmiast znika z pola widzenia przeciwnika, zmniejszając szansę na trafienie.
+5.	Decoy – Tworzy iluzję, która odwraca uwagę przeciwników, dając Tricksterowi czas na ucieczkę.
+6.	Fleet Footed – Zwiększa szybkość poruszania się o 30% na 5 sekund, pozwalając na szybką zmianę pozycji.
+1. Assasyn
+Charakterystyka: Assasyn skupia się na szybkim poruszaniu, natychmiastowych teleportach, szarżach i uderzeniach. Jego defensywne skille koncentrują się na znikaniu, iluzjach, zwiększaniu szybkości ruchu i unikach.
+Ofensywne Skille (9):
+1.	Shadow Strike – Szybki teleport za plecy przeciwnika, zadając duże obrażenia w jednym uderzeniu.
+2.	Ambush – Natychmiastowy atak z ukrycia, który zadaje dodatkowe obrażenia, jeśli Assasyn jest niewidzialny.
+3.	Death's Touch – Szybkie uderzenie, które zadaje ogromne obrażenia przeciwnikowi o niskim HP.
+4.	Blink Slash – Teleport do wybranego przeciwnika z natychmiastowym atakiem.
+5.	Eviscerate – Potężny atak, który zadaje krwawienie na przeciwniku, zwiększając obrażenia w czasie.
+6.	Phantom Strike – Szybki atak, który teleportuje Assasyna do przodu i zadaje obrażenia wszystkim przeciwnikom na drodze.
+7.	Teleport Strike – Natychmiastowy teleport za przeciwnika z silnym ciosem, który zadaje dodatkowe obrażenia krytyczne.
+8.	Shadow Dance – Szybka seria uderzeń, które zwiększają obrażenia za każde kolejne trafienie.
+9.	Assassin’s Rush – Szybka szarża do przodu, zadając obrażenia przeciwnikom, przez których przebiega.
+Wspierające/Defensywne Skille (6):
+1.	Vanish – Rogue natychmiastowo znika, stając się niewidzialny na kilka sekund.
+2.	Decoy – Tworzy iluzję, która odwraca uwagę przeciwników, podczas gdy Assasyn ucieka lub atakuje z innej pozycji.
+3.	Quick Step – Zwiększa szybkość poruszania się o 30% na 5 sekund, pozwalając na szybkie unikanie ataków.
+4.	Mirror Image – Tworzy dwa klony, które atakują wrogów, myląc ich, co zwiększa szansę na unik.
+5.	Shadow Escape – Natychmiastowy teleport do przodu, który na krótko sprawia, że Assasyn staje się niewidzialny.
+6.	Spell Deflection – Odbija najbliższe zaklęcie w przeciwnika, chroniąc Assasyna przed magicznymi atakami.
+________________________________________
+2. Oszust (Trickster)
+Charakterystyka: Oszust to mistrz nieczystej walki, który atakuje w witalne punkty, osłabiając przeciwnika. Jego defensywne skille to arsenał sztuczek do ucieczki i leczenia.
+Ofensywne Skille (9):
+1.	Low Blow – Cios w krocze przeciwnika, który ogłusza go na krótki czas.
+2.	Cheap Shot – Atak w plecy przeciwnika, który oślepia go na kilka sekund.
+3.	Dirty Trick – Atak, który zmniejsza obronę przeciwnika i jego siłę ataku na 10 sekund.
+4.	Blind Strike – Cios, który oślepia przeciwnika, zmniejszając jego szanse na trafienie.
+5.	Nerve Strike – Atak w wrażliwe punkty, który zmniejsza szybkość ataku i ruchu przeciwnika.
+6.	Weaken – Uderzenie, które zmniejsza siłę ataku przeciwnika o 20% na 5 sekund.
+7.	Sap – Cios, który ogłusza przeciwnika, uniemożliwiając mu akcję na 3 sekundy.
+8.	Crippling Blow – Atak, który spowalnia przeciwnika, uniemożliwiając mu ucieczkę.
+9.	Heart Piercer – Precyzyjny cios w serce, który zmniejsza maksymalne HP przeciwnika na 10 sekund.
+Wspierające/Defensywne Skille (6):
+1.	Feint – Oszust udaje atak, co zmniejsza otrzymywane obrażenia o 50% na 5 sekund.
+2.	Smoke Bomb – Tworzy chmurę dymu, która uniemożliwia przeciwnikowi atakowanie Oszusta przez 3 sekundy.
+3.	Healing Potion – Oszust używa ukrytej mikstury, która natychmiast przywraca 20% HP.
+4.	Cunning Escape – Oszust błyskawicznie ucieka, zwiększając swoją prędkość poruszania się o 40% na 5 sekund.
+5.	Shadow Cloak – Oszust staje się niewidzialny na 3 sekundy, pozwalając na ucieczkę.
+6.	Stun Powder – Rzuca proszek, który ogłusza przeciwników w promieniu, dając Oszustowi czas na ucieczkę.
+________________________________________
+3. Arcymistrz Sztyletów
+Charakterystyka: Arcymistrz Sztyletów to mistrz walki wręcz, który walczy szybko i precyzyjnie, zwiększając swoją szansę na trafienie krytyczne i wzmacniając obrażenia. Jego przeżywalność opiera się wyłącznie na szybkim eliminowaniu przeciwników.
+Ofensywne Skille (9):
+1.	Twin Slash – Szybka seria cięć z podwójnymi sztyletami, zwiększająca szansę na trafienie krytyczne.
+2.	Critical Strike – Uderzenie, które gwarantuje trafienie krytyczne, zadając podwójne obrażenia.
+3.	Flurry of Blades – Błyskawiczna seria cięć, która zwiększa obrażenia każdego kolejnego ciosu.
+4.	Precision Stab – Precyzyjne uderzenie w słaby punkt, które zwiększa szansę na krytyczne obrażenia.
+5.	Blade Dance – Arcymistrz obraca się z sztyletami, zadając obrażenia wszystkim wrogom wokół i zwiększając swoją szybkość ataku.
+6.	Lethal Strike – Uderzenie, które zadaje dodatkowe obrażenia przeciwnikom z mniej niż 30% HP.
+7.	Swift Blades – Szybka seria cięć, która zwiększa prędkość ataku Arcymistrza na 5 sekund.
+8.	Deadly Precision – Zwiększa szansę na trafienie krytyczne o 50% na 5 sekund.
+9.	Frenzy Stab – Błyskawiczna seria uderzeń, które zwiększają obrażenia krytyczne na czas trwania skilla.
+Wspierające/Defensywne Skille (6):
+Arcymistrz Sztyletów nie ma defensywnych skilli stricte obronnych, ale może korzystać z lekkich wzmocnień:
+1.	Dodge Mastery – Zwiększa szansę na uniki o 20% na 5 sekund.
+2.	Rapid Reflexes – Zwiększa szybkość ruchu o 15% na 5 sekund, pozwalając Arcymistrzowi unikać ataków.
+3.	Adrenaline Surge – Zwiększa regenerację energii o 30% na 5 sekund, pozwalając na częstsze używanie skilli.
+4.	Blade Reflex – Zwiększa szansę na odbicie pierwszego nadchodzącego ataku.
+5.	Speed of the Wind – Arcymistrz zwiększa swoją prędkość ataku o 25% na 10 sekund.
+6.	Lightning Reflexes – Zwiększa szansę na unik i trafienie krytyczne o 20% na 5 sekund.
+1. Mistrz Ognia
+Charakterystyka: Mistrz Ognia skupia się na zadawaniu ogromnych obrażeń ogniowych i wywoływaniu podpaleń, które zadają obrażenia w czasie.
+Ofensywne Skille (9):
+1.	Fireball – Strzela kulą ognia, która zadaje bezpośrednie obrażenia i podpala przeciwnika, zadając dodatkowe obrażenia w czasie.
+2.	Flame Wave – Fala ognia, która uderza w przeciwników przed magiem, zadając obrażenia i podpalając ich.
+3.	Pyroblast – Potężny ognisty pocisk, który zadaje ogromne obrażenia przy trafieniu i podpala cel.
+4.	Molten Armor – Tworzy płonącą zbroję, która zadaje obrażenia każdemu, kto zaatakuje Mistrza Ognia w walce wręcz.
+5.	Inferno – Przywołuje wir ognia, który porusza się po polu walki, podpalając wszystkich, którzy znajdą się w jego zasięgu.
+6.	Scorch – Szybki atak ogniowy, który zadaje obrażenia i dodatkowo zwiększa obrażenia od ognia zadawane przez kolejne ataki.
+7.	Flame Strike – Silne uderzenie ogniem w ziemię, które zadaje obrażenia w obszarze i podpala wrogów.
+8.	Meteor Shower – Deszcz meteorytów uderzających w wybrany obszar, zadając potężne obrażenia wszystkim wrogom i podpalając ich.
+9.	Incendiary Bolt – Strzał ogniowy, który podpala przeciwników na kilka sekund, zadając obrażenia w czasie.
+1. Mistrz Ognia (Wspierające/Defensywne Skille):
+1.	Molten Skin – Zmniejsza obrażenia od wszystkich elementów (ognia, lodu, błyskawic itp.) o 25% na 10 sekund.
+2.	Flame Teleport (Forward) – Teleportuje się do przodu, pozostawiając za sobą ślad ognia, który zadaje obrażenia przeciwnikom, którzy przez niego przejdą.
+3.	Flame Blink (Backward) – Szybki teleport w tył, zadający obrażenia przeciwnikom na starcie i wywołujący krótkotrwałe ogniste pole.
+4.	Blazing Aura – Ognista aura, która zadaje obrażenia przeciwnikom znajdującym się w pobliżu i zmniejsza ich obronę na krótki czas.
+5.	Fire Ward – Odbija pierwsze zaklęcie magiczne rzucone w Mistrza Ognia, chroniąc go przed obrażeniami.
+6.	Cauterize – Gdy HP maga spada poniżej 20%, natychmiast odnawia 15% jego zdrowia, zadając jednak obrażenia w czasie w formie „oparzeń”.
+
+________________________________________
+2. Mistrz Lodu
+Charakterystyka: Mistrz Lodu zadaje średnie obrażenia, ale skupia się na spowalnianiu, zamrażaniu i kontrolowaniu przeciwników.
+Ofensywne Skille (9):
+1.	Ice Lance – Strzał z lodu, który zamraża przeciwnika na kilka sekund.
+2.	Frost Nova – Eksplozja lodu, która zamraża wszystkich przeciwników wokół maga na krótki czas.
+3.	Frozen Orb – Lodowa kula, która porusza się w linii prostej, zadając obrażenia i spowalniając przeciwników na swojej drodze.
+4.	Blizzard – Przywołuje zamieć, która spowalnia przeciwników i zadaje obrażenia w obszarze.
+5.	Frostbite – Zadaje obrażenia od mrozu i dodatkowo zmniejsza prędkość ruchu przeciwników o 30% na 5 sekund.
+6.	Ice Wall – Tworzy lodową ścianę, która blokuje drogę przeciwników i zadaje obrażenia przy próbie jej przejścia.
+7.	Shatter – Zadaje dodatkowe obrażenia zamrożonym celom, z możliwością natychmiastowego zabicia słabszych wrogów.
+8.	Icy Touch – Spowalnia przeciwnika i zadaje mu obrażenia lodowe przez kilka sekund.
+9.	Glacial Spike – Przywołuje ogromną igłę lodu, która zadaje duże obrażenia i zamraża przeciwnika na krótką chwilę.
+Wspierające/Defensywne Skille (6):
+1.	Ice Block – Mistrz Lodu zamraża się w bryle lodu, chroniąc się przed obrażeniami, ale nie mogąc atakować.
+2.	Frost Armor – Zwiększa obronę fizyczną i magiczną, spowalniając każdego przeciwnika, który zaatakuje maga.
+3.	Cold Snap – Natychmiast odnawia wszystkie skille lodowe i przywraca 20% many.
+4.	Frozen Shield – Tarcza lodu, która zamraża przeciwników, którzy uderzą w maga, zadając im obrażenia.
+5.	Chill Step – Zwiększa szybkość ruchu o 15%, a każde trafienie przeciwnika spowalnia go na 2 sekundy.
+6.	Winter’s Embrace – Zwiększa odporność maga na obrażenia od lodu o 40% na 10 sekund.
+________________________________________
+3. Mistrz Ziemi
+Charakterystyka: Mistrz Ziemi zadaje duże obrażenia i potrafi zatrzymać przeciwnika za pomocą stunów i kontroli pola walki.
+Ofensywne Skille (9):
+1.	Earthquake – Wywołuje trzęsienie ziemi, które zadaje obrażenia przeciwnikom w obszarze i może ich przewrócić.
+2.	Rock Smash – Uderza przeciwnika gigantyczną skałą, zadając ogromne obrażenia i ogłuszając go.
+3.	Stone Fist – Przywołuje rękę z kamienia, która uderza w przeciwnika, zatrzymując go w miejscu.
+4.	Boulder Toss – Rzuca wielkim głazem w przeciwnika, zadając mu obrażenia obszarowe.
+5.	Petrify – Zamienia przeciwnika w kamień na kilka sekund, uniemożliwiając mu ruch i akcję.
+6.	Sandstorm – Przywołuje burzę piaskową, która spowalnia przeciwników i zmniejsza ich celność.
+7.	Earth Spike – Przywołuje kolce z ziemi, które uderzają w przeciwników, zadając obrażenia i zatrzymując ich ruch.
+8.	Tremor – Krótka seria wstrząsów, które zadają obrażenia wszystkim przeciwnikom w promieniu i mogą ich ogłuszyć.
+9.	Fissure – Tworzy rozpadlinę w ziemi, która zadaje obrażenia przeciwnikom i może ich spowolnić.
+Wspierające/Defensywne Skille (6):
+1.	Stone Skin – Zwiększa odporność na obrażenia fizyczne o 40% na 10 sekund.
+2.	Rock Wall – Tworzy ścianę z kamienia, która blokuje ataki i przeciwników.
+3.	Earthen Shield – Zwiększa obronę magiczną maga o 30% na 8 sekund.
+4.	Pillar of Stone – Mag staje się niewrażliwy na obrażenia fizyczne na 5 sekund, ale nie może się poruszać.
+5.	Grounded – Zwiększa odporność na ogłuszenia i przewrócenia o 50% na 10 sekund.
+6.	Earth’s Embrace – Mag regeneruje 5% HP na sekundę, stojąc w bezruchu przez 5 sekund.
+________________________________________
+4. Mistrz Powietrza
+Charakterystyka: Mistrz Powietrza zadaje ogromne obrażenia i ma bardzo wysoką szansę na trafienia krytyczne, ale nie posiada innych efektów kontroli czy defensywnych wzmocnień.
+Ofensywne Skille (9):
+1.	Lightning Bolt – Uderzenie błyskawicy, które ma wysoką szansę na trafienie krytyczne.
+2.	Chain Lightning – Piorun, który przeskakuje na kilku przeciwników, zadając coraz mniejsze obrażenia, ale ma zwiększoną szansę na krytyki.
+3.	Thunder Strike – Potężny atak błyskawicą, który zadaje ogromne obrażenia i ma bardzo dużą szansę na krytyczne trafienie.
+4.	Storm Surge – Przywołuje burzę, która zadaje obrażenia wszystkim przeciwnikom w promieniu z dużą szansą na trafienia krytyczne.
+5.	Lightning Nova – Eksplozja błyskawic wokół maga, zadająca obrażenia wszystkim przeciwnikom i mająca dużą szansę na krytyk.
+6.	Static Field – Tworzy pole elektryczne, które zadaje obrażenia przeciwnikom w promieniu i ma zwiększoną szansę na krytyk.
+7.	Air Slash – Wystrzeliwuje ostrza powietrza, które mają zwiększoną szansę na trafienie krytyczne.
+8.	Electrify – Przeciwnik zostaje naelektryzowany, co zwiększa szansę na krytyczne trafienia w niego przez 5 sekund.
+9.	Gale Strike – Potężne uderzenie powietrzem, które zadaje obrażenia i ma wysoką szansę na trafienie krytyczne.
+Wspierające/Defensywne Skille (6):
+1  Wind Blink (Forward Teleport) – Mistrz Powietrza teleportuje się do przodu, zyskując dodatkową szansę na unik przez 3 sekundy.
+2  Wind Step (Backward Teleport) – Szybki teleport w tył, odpychający przeciwników przy starcie.
+3  Static Charge – Zwiększa szansę na trafienie krytyczne o 20% na 5 sekund.
+4  Lightning Reflexes – Zwiększa szansę na unik o 25% na 5 sekund.
+5  Wind Barrier – Tworzy barierę z powietrza, która zmniejsza otrzymywane obrażenia fizyczne o 30% na 8 sekund.
+6  Cyclone – Tworzy wir powietrza wokół maga, który odpycha przeciwników i zmniejsza otrzymywane obrażenia o 15% na 5 sekund.
+1. Czarnoksiężnik
+Charakterystyka: Czarnoksiężnik to mistrz ciemnej magii, który potrafi używać dwóch zaklęć jednocześnie. Skupia się na szybkim rzucaniu czarów i kradzieży życia, wykorzystując dark stance. Posiada umiejętności, które pozwalają mu na teleportację, kradzież życia oraz masowe obrażenia.
+Ofensywne Skille (9):
+1.	Death Spike – Błyskawiczny atak, który zadaje obrażenia ciemności i nie pozwala przeciwnikowi na leczenie przez 5 sekund.
+2.	Death Crush – Seria szybkich, niszczących uderzeń energią ciemności, które zadają coraz większe obrażenia.
+3.	Dark Orb – Gigantyczna kula ciemnej mocy, która eksploduje po trafieniu w cel, zadając ogromne obrażenia w obszarze.
+4.	Soul Drain – Czarnoksiężnik wysysa życie z przeciwnika, regenerując własne HP.
+5.	Life Steal – Atak, który zadaje obrażenia i leczy Czarnoksiężnika za część zadanych obrażeń.
+6.	Curse of Death – Klątwa, która zadaje obrażenia ciemności przez kilka sekund, dodatkowo zmniejszając siłę ataku przeciwnika.
+7.	Dark Bolt – Szybki strzał z ciemnej energii, który zadaje obrażenia przeciwnikowi i osłabia jego obronę.
+8.	Shadow Nova – Eksplozja ciemności wokół Czarnoksiężnika, zadająca obrażenia przeciwnikom w pobliżu.
+9.	Soul Reaper – Czarnoksiężnik oznacza cel, zwiększając obrażenia od wszystkich swoich zaklęć o 20%.
+Wspierające/Defensywne Skille (6):
+1.	Dark Stance – Wprowadza Czarnoksiężnika w stan, w którym każdy czar kradnie zdrowie przeciwnika i oddaje je Czarnoksiężnikowi.
+2.	Twin Cast – Przez 10 sekund Czarnoksiężnik może rzucać dwa zaklęcia jednocześnie.
+3.	Soul Harvest – Zwiększa moc zaklęć za każdego zabitego przeciwnika o 5%, kumulując do 3 razy.
+4.	Shadow Teleport – Czarnoksiężnik natychmiast teleportuje się w wybrane miejsce, zyskując niewidzialność na 2 sekundy.
+5.	Black Shield – Tworzy tarczę ciemności, która pochłania 30% wszystkich obrażeń magicznych przez 8 sekund.
+6.	Mana Siphon – Zmienia część obrażeń zadanych przeciwnikom na manę, pozwalając Czarnoksiężnikowi na dłuższe rzucanie zaklęć.
+________________________________________
+2. Nekromanta
+Charakterystyka: Nekromanta opiera swoją magię na przywoływaniu umarłych, osłabianiu przeciwników klątwami oraz wzmacnianiu swoich towarzyszy. Skupia się na klątwach i przywoływaniu istot, które walczą za niego.
+Ofensywne Skille (9):
+1.	Summon Undead – Przywołuje martwego sługę, który walczy po stronie Nekromanty.
+2.	Plague Strike – Atak, który zadaje obrażenia i aplikuje klątwę, która zadaje obrażenia w czasie.
+3.	Curse of Weakness – Klątwa, która zmniejsza siłę ataku przeciwnika o 20% na 10 sekund.
+4.	Corrupting Touch – Zadaje truciznowe obrażenia w czasie, osłabiając przeciwnika.
+5.	Necrotic Bolt – Strzał ciemnej energii, który zadaje obrażenia i zmniejsza obronę przeciwnika.
+6.	Death Mark – Klątwa, która zwiększa obrażenia zadawane przez towarzyszy Nekromanty.
+7.	Summon Skeletons – Przywołuje grupę szkieletów, które walczą za Nekromantę.
+8.	Summon Golem – Przywołuje potężnego golema, który walczy u boku Nekromanty i przyciąga uwagę przeciwników.
+9.	Pestilence – Rozprzestrzenia chorobę, zadając obrażenia w obszarze i osłabiając przeciwników.
+Wspierające/Defensywne Skille (6):
+1.	Bone Shield – Tworzy ochronną tarczę z kości, która pochłania obrażenia przez 5 sekund.
+2.	Death Pact – Poświęca jedno z przywołanych stworzeń, aby odzyskać zdrowie Nekromanty.
+3.	Dark Ritual – Nekromanta poświęca swoje zdrowie, aby odzyskać manę.
+4.	Soul Link – Nekromanta dzieli swoje zdrowie z przywołanymi stworzeniami, leczy je kosztem własnego HP.
+5.	Necrotic Aura – Zwiększa obrażenia zadawane przez wszystkie zaklęcia o 15% przez 10 sekund.
+6.	Undying Will – Nekromanta przez 5 sekund staje się odporny na śmierć, ignorując śmiertelne obrażenia.
+________________________________________
+3. Wyznawca Śmierci
+Charakterystyka: Wyznawca Śmierci skupia się na rozprzestrzenianiu trucizny i magii degeneracji, zadając obrażenia w czasie. Jego skille wspierające opierają się na ochronie i blokowaniu obrażeń za pomocą mocy śmierci.
+Ofensywne Skille (9):
+1.	Plague Cloud – Rozprzestrzenia trujący obłok, który zadaje obrażenia przeciwnikom w promieniu przez kilka sekund.
+2.	Rotting Flesh – Zadaje obrażenia w czasie, przyspieszając rozkład przeciwnika.
+3.	Deathly Grasp – Chwyta przeciwnika magią śmierci, zadając mu obrażenia i spowalniając go.
+4.	Corrupted Blood – Przeklina przeciwnika, powodując, że każde jego leczenie zadaje mu obrażenia.
+5.	Bone Spear – Strzał z kości, który przebija się przez kilku przeciwników, zadając im obrażenia.
+6.	Curse of Agony – Klątwa, która zadaje obrażenia przez długi czas, rosnące z każdą sekundą.
+7.	Siphon Life – Kradnie życie przeciwnika przez 5 sekund, regenerując zdrowie Wyznawcy.
+8.	Pestilential Rain – Wywołuje deszcz trucizny, który zadaje obrażenia wszystkim przeciwnikom w obszarze.
+9.	Deathly Swarm – Przywołuje rój owadów, które zadają przeciwnikom obrażenia trucizną w czasie.
+Wspierające/Defensywne Skille (6):
+1.	Aura of Decay – Wrogowie znajdujący się blisko Wyznawcy Śmierci otrzymują stałe obrażenia od trucizny.
+2.	Death Ward – Ochronna bariera, która zmniejsza otrzymywane obrażenia o 30% przez 8 sekund.
+3.	Spectral Shroud – Wyznawca staje się niewidzialny na 3 sekundy, zwiększając swoją szybkość poruszania się.
+4.	Life Drain – Każdy atak, który zadaje obrażenia przeciwnikowi, leczy Wyznawcę o 5% zadanych obrażeń przez 10 sekund.
+5.	Bone Cage – Tworzy klatkę z kości wokół Wyznawcy, zmniejszając otrzymywane obrażenia o 40%.
+6.	Necrotic Barrier – Tarcza, która absorbuje
+________________________________________
+1. Ksiądz
+Charakterystyka: Ksiądz to postać wspierająca, która skupia się na leczeniu swoich sojuszników oraz atakowaniu przeciwników za pomocą mocy światła. W walce korzysta z ksiąg zaklęć, aby przywołać świętą moc i jednocześnie wspierać drużynę.
+Ofensywne Skille (9):
+1.	Holy Smite – Uderzenie świętym światłem, które zadaje obrażenia magiczne przeciwnikowi.
+2.	Light’s Wrath – Intensywny promień światła, który wypala przeciwników, zadając obrażenia w czasie.
+3.	Judgment – Święty ogień, który zadaje obrażenia przeciwnikowi i osłabia jego odporność na światło.
+4.	Divine Strike – Potężne uderzenie promieniem światła, które zadaje obrażenia w linii prostej.
+5.	Holy Nova – Eksplozja świętej energii, która zadaje obrażenia wszystkim przeciwnikom w promieniu i jednocześnie leczy sojuszników.
+6.	Radiant Blast – Uderzenie blasku światła, które oślepia przeciwników, zmniejszając ich celność i zadając im obrażenia.
+7.	Blinding Light – Rozbłysk świętej energii, który zadaje obrażenia przeciwnikom i tymczasowo oślepia ich, zmniejszając ich szanse na trafienie.
+8.	Sanctified Ground – Zaklęcie, które tworzy poświęcony obszar, raniący wszystkich wrogów, którzy w niego wejdą.
+9.	Pillar of Light – Przywołuje kolumnę światła z nieba, która uderza w wybrany cel, zadając potężne obrażenia magiczne.
+Wspierające/Defensywne Skille (6):
+1.	Heal – Natychmiast leczy sojusznika dużą ilością zdrowia.
+2.	Renew – Regeneruje zdrowie sojusznika przez 5 sekund, przywracając mu zdrowie stopniowo.
+3.	Holy Shield – Tworzy tarczę światła, która pochłania obrażenia skierowane przeciwko wybranemu sojusznikowi przez 5 sekund.
+4.	Sanctuary – Tworzy święty obszar, w którym sojusznicy stojący w nim są stopniowo leczeni.
+5.	Blessing of Light – Zwiększa regenerację zdrowia całej drużyny przez 10 sekund, wspierając ich w walce.
+6.	Divine Protection – Zmniejsza otrzymywane obrażenia przez sojusznika o 30% przez 10 sekund.
+________________________________________
+2. Wiarołomca/Mnich
+Charakterystyka: Mnich/Wiarołomca to postać, która wykorzystuje swoją wiedzę medyczną i fizyczne zdolności, aby wzmacniać siebie i swoich sojuszników. Jego styl opiera się na walce wręcz z użyciem kastetów i innych broni, a także na przygotowywaniu preparatów, które wzmacniają drużynę.
+Ofensywne Skille (9):
+1.	Iron Fist – Potężny cios wręcz, który zadaje obrażenia fizyczne przeciwnikowi.
+2.	Dragon Palm – Uderzenie otwartą dłonią, które powoduje falę uderzeniową, raniąc przeciwników przed Mnichem.
+3.	Vital Strike – Cios skierowany w witalne punkty przeciwnika, który zwiększa szanse na trafienie krytyczne.
+4.	Elixir Punch – Uderzenie wzmacniane przez magiczny eliksir, które zadaje dodatkowe obrażenia magiczne.
+5.	Explosive Fist – Szybkie, seria ciosów, które wywołują małą eksplozję na końcu, zadając obrażenia obszarowe.
+6.	Healing Strike – Cios, który zadaje obrażenia przeciwnikowi i jednocześnie leczy Mnicha.
+7.	Thunder Kick – Szybkie kopnięcie, które odrzuca przeciwnika i zadaje obrażenia fizyczne.
+8.	Power Surge – Skumulowana energia pozwala Mnichowi zadać przeciwnikowi potężne uderzenie, zwiększając jego siłę.
+9.	Crushing Blow – Mocne uderzenie, które zadaje ogromne obrażenia, ale wymaga czasu na przygotowanie.
+Wspierające/Defensywne Skille (6):
+1.	Iron Body – Mnich wzmacnia swoje ciało, zwiększając swoją obronę fizyczną o 30% na 10 sekund.
+2.	Rejuvenating Elixir – Mnich pije eliksir, który natychmiast przywraca mu 20% zdrowia i regeneruje HP przez 5 sekund.
+3.	Battle Trance – Zwiększa szybkość ataku Mnicha i jego sojuszników o 20% przez 10 sekund.
+4.	Healing Brew – Mnich przyrządza specjalny napój, który natychmiast leczy sojusznika o 25% jego maksymalnego zdrowia.
+5.	Energy Infusion – Zwiększa energię i siłę ataku drużyny o 15% przez 8 sekund.
+6.	Swift Step – Zwiększa prędkość poruszania się Mnicha o 30% na 5 sekund, pozwalając mu na szybkie przemieszczanie się po polu bitwy.
+1.	
+________________________________________
+1. Druid Lasu
+Charakterystyka: Druid Lasu to postać, która wspiera swoją drużynę zaklęciami natury, wzmacniając sojuszników i spowalniając przeciwników poprzez kontrolę nad roślinnością. Jego ofensywne zaklęcia skupiają się na pętaniu i osłabianiu wrogów, podczas gdy wspierające zwiększają zdolności regeneracyjne drużyny.
+Ofensywne Skille (9):
+1.	Entangling Roots – Pęta przeciwnika korzeniami, spowalniając go i zadając obrażenia w czasie.
+2.	Insect Swarm – Przywołuje chmurę owadów, które zadają obrażenia przeciwnikowi i osłabiają jego obronę.
+3.	Thorns – Pokrywa siebie lub sojusznika cierniami, które zadają obrażenia przeciwnikom, którzy ich atakują.
+4.	Cyclone – Wciąga przeciwników w wir wiatru, unosząc ich na krótki czas i uniemożliwiając im akcję.
+5.	Summon Treants – Przywołuje żywe drzewa, które atakują przeciwników i mogą ich zatrzymać w miejscu.
+6.	Vine Grasp – Korzenie wyrastające z ziemi, które trzymają przeciwników w jednym miejscu, uniemożliwiając im ucieczkę.
+7.	Nature's Hold – Przywołuje magiczne pnącza, które unieruchamiają grupę przeciwników, zmniejszając ich szybkość ataku.
+8.	Fury of the Forest – Atak naturą, który wywołuje eksplozję roślin, raniąc przeciwników w promieniu.
+9.	Faerie Fire – Zaklęcie, które zmniejsza obronę przeciwników, czyniąc ich bardziej podatnymi na ataki drużyny.
+Wspierające/Defensywne Skille (6):
+1.	Rejuvenation – Leczy sojusznika przez kilka sekund, przywracając mu zdrowie w czasie.
+2.	Tranquility – Potężne zaklęcie, które stopniowo leczy całą drużynę w promieniu przez 10 sekund.
+3.	Healing Rain – Tworzy deszcz natury, który leczy wszystkich sojuszników w obszarze przez 5 sekund.
+4.	Cenarion Ward – Chroni wybranego sojusznika, zwiększając jego regenerację zdrowia.
+5.	Force of Nature – Przywołuje drzewa, które zwiększają obronę drużyny na 10 sekund.
+6.	Wild Growth – Leczy sojuszników w promieniu przez 10 sekund, zwiększając ich regenerację HP.
+________________________________________
+2. Druid Gór
+Charakterystyka: Druid Gór to postać ofensywna, która wzmacnia zdolności bojowe sojuszników, a sam zamienia się w potężne zwierzęta (wilka, niedźwiedzia lub inne), by zwiększyć swoje obrażenia. Jego zaklęcia ofensywne i transformacje wzmacniają jego możliwości ataku.
+Ofensywne Skille (9):
+1.	Feral Swipe – Szybki atak w formie zwierzęcia, który zadaje obrażenia przeciwnikom.
+2.	Ferocious Bite – Potężny atak w formie zwierzęcia, który zadaje ogromne obrażenia pojedynczemu celowi.
+3.	Maul – Silny atak w formie zwierzęcia , który zmniejsza obronę przeciwnika i zadaje obrażenia.
+9.	Feral Frenzy – Seria szybkich ciosów w formie zwierzęcej, zadających obrażenia w szybkim tempie.
+9.	Wild Charge – Szarża na przeciwnika, która zadaje obrażenia i ogłusza wroga.
+9.	Mighty Roar – Ryk w formie zwierzęcia, który zwiększa siłę ataku i szybkość poruszania się sojuszników w pobliżu.
+9.	Lunar Strike – Mocne uderzenie energią księżyca, które zadaje obrażenia i ogłusza przeciwnika.
+9.	Lycanthropy (Transformacja) – Druid zamienia się w wybrane zwierzę (wilka, niedźwiedzia lub inne), zwiększając swoje statystyki ofensywne na określony czas. Wyższe poziomy transformacji oferują potężniejsze formy.
+9.	Nature’s Wrath – Przywołuje siły natury, które wzmacniają ataki drużyny, zwiększając ich obrażenia o 20% przez 10 sekund.
+Wspierające/Defensywne Skille (6):
+6.	Barkskin – Zmniejsza otrzymywane obrażenia przez Druida o 20% na 10 sekund.
+6.	Ironbark – Zwiększa obronę fizyczną wybranego sojusznika przez 10 sekund.
+6.	Swiftmend – Natychmiast leczy wybranego sojusznika o dużą ilość zdrowia.
+6.	Thick Hide – Zmniejsza obrażenia otrzymywane przez Druida w formie zwierzęcej o 30% na 8 sekund.
+6.	Nature’s Guardian – Zwiększa ogólną obronę drużyny o 10% przez 10 sekund.
+6.	Innervate – Przyspiesza regenerację many drużyny o 20% przez 5 sekund, co pozwala na dłuższą walkę.
+
