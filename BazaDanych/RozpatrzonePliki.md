@@ -1,0 +1,30 @@
+# Rozpatrzone pliki
+
+- ~~Upgrading~~
+- ~~System zlodzieja~~
+- ~~System zielarza~~
+- ~~System wedkarza~~
+- ~~System Trenera skilli~~
+- ~~System podbijania skilli~~
+- ~~System pisarza~~
+- ~~System Peta~~
+- **System perswazji** - system perswazji jest opisany bardzo krótko i trudno mi sobie wyobrazić jak to ma właściwie działać, więc na razie pomijam to w schemacie. Być może wystarczy sama implementacja w kodzie.
+- ~~System gornictwa~~
+- ~~System ewolucji skilli~~
+- ~~System enchantowania skilli~~
+- ~~System Elementow~~
+- ~~System drzewek umiejetnosci~~
+- ~~System craftowania~~
+- ~~System Alchemii~~
+- **Soul system**  - za mało informacji by zintegrować go ze schematem
+- ~~Soul Crystals~~
+- ~~Skile Peta~~
+- ~~Skile gry~~
+- ~~Runy peta~~
+- ~~Przedmioty~~
+- ~~Propozycje statystyk i funkcji gry~~
+- ~~Personalizacja Statystyk~~
+- ~~Evolution Items~~
+- ~~Enchantowanie~~
+- ~~Augmentacja~~
+- ~~Acumen~~
